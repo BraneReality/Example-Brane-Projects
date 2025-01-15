@@ -1,0 +1,47 @@
+{
+  "fragmentShader" : "/4",
+  "id" : "/6",
+  "inputs" : [],
+  "properties" : 
+  [
+    {
+      "name" : "metallness",
+      "type" : "float",
+      "value" : 0
+    }
+  ],
+  "textures" : 
+  {
+    "AO_Roughness_Metallic" : 
+    {
+      "binding" : 5,
+      "id" : "/2"
+    },
+    "alphaTex" : 
+    {
+      "binding" : 4,
+      "id" : "/3"
+    },
+    "emission" : 
+    {
+      "binding" : 8,
+      "id" : "/7"
+    },
+    "metallic" : 
+    {
+      "binding" : 6,
+      "id" : "/2"
+    },
+    "normalMap" : 
+    {
+      "binding" : 7,
+      "id" : "/8"
+    },
+    "roughness" : 
+    {
+      "binding" : 5,
+      "id" : "/2"
+    }
+  },
+  "vertexShader" : "/5"
+}

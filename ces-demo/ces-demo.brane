@@ -1,0 +1,75 @@
+{
+  "assetIdCounter" : 10,
+  "assets" : 
+  {
+    "/0" : 
+    {
+      "path" : "helmet.assembly",
+      "type" : "assembly"
+    },
+    "/1" : 
+    {
+      "path" : "helmet.assembly",
+      "type" : "mesh"
+    },
+    "/2" : 
+    {
+      "path" : "textures\\Image_3-Image_1.image",
+      "type" : "image"
+    },
+    "/3" : 
+    {
+      "path" : "textures\\Image_0.image",
+      "type" : "image"
+    },
+    "/4" : 
+    {
+      "path" : "material\\frag.shader",
+      "type" : "shader"
+    },
+    "/5" : 
+    {
+      "path" : "material\\vert.shader",
+      "type" : "shader"
+    },
+    "/6" : 
+    {
+      "path" : "material\\helmet-mat.material",
+      "type" : "material"
+    },
+    "/7" : 
+    {
+      "path" : "textures\\Image_2.image",
+      "type" : "image"
+    },
+    "/8" : 
+    {
+      "path" : "textures\\Image_4.image",
+      "type" : "image"
+    },
+    "/A" : 
+    {
+      "path" : "World1.chunk",
+      "type" : "chunk"
+    }
+  },
+  "info" : 
+  {
+    "name" : "ces-demo",
+    "version" : "0.0.0"
+  },
+  "server" : 
+  {
+    "address" : "localhost",
+    "port" : "2001",
+    "username" : "admin"
+  },
+  "settings" : 
+  {
+    "assetServer" : 
+    {
+      "address" : "",
+      "port" : 0
+    }
+  }
+}

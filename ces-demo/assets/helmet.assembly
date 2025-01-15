@@ -1,0 +1,417 @@
+{
+  "dependencies" : 
+  {
+    "materials" : 
+    [
+      "/6"
+    ],
+    "meshes" : 
+    [
+      "/1"
+    ]
+  },
+  "entities" : 
+  [
+    {
+      "children" : 
+      [
+        3,
+        2,
+        1
+      ],
+      "components" : 
+      [
+        {
+          "id" : "native/5",
+          "members" : 
+          [
+            {
+              "name" : "translation",
+              "type" : "vec3",
+              "value" : 
+              [
+                0.0,
+                0.0,
+                0.0
+              ]
+            },
+            {
+              "name" : "rotation",
+              "type" : "quaternion",
+              "value" : 
+              [
+                0.0,
+                0.0,
+                0.0,
+                0.99999994039535522
+              ]
+            },
+            {
+              "name" : "scale",
+              "type" : "vec3",
+              "value" : 
+              [
+                0.99997085332870483,
+                0.99999380111694336,
+                0.99997085332870483
+              ]
+            }
+          ],
+          "name" : "TRS"
+        }
+      ],
+      "name" : "root"
+    },
+    {
+      "components" : 
+      [
+        {
+          "id" : "native/5",
+          "members" : 
+          [
+            {
+              "name" : "translation",
+              "type" : "vec3",
+              "value" : 
+              [
+                0.0,
+                0.0,
+                0.0
+              ]
+            },
+            {
+              "name" : "rotation",
+              "type" : "quaternion",
+              "value" : 
+              [
+                -0.0034021816682070494,
+                0.7931983470916748,
+                -0.60893779993057251,
+                -0.0044285673648118973
+              ]
+            },
+            {
+              "name" : "scale",
+              "type" : "vec3",
+              "value" : 
+              [
+                0.99988937377929688,
+                0.99991124868392944,
+                0.99991124868392944
+              ]
+            }
+          ],
+          "name" : "TRS"
+        },
+        {
+          "id" : "native/6",
+          "members" : 
+          [
+            {
+              "name" : "mesh",
+              "type" : "uint",
+              "value" : 0
+            },
+            {
+              "name" : "materials",
+              "type" : "uintArray",
+              "value" : 
+              [
+                0
+              ]
+            }
+          ],
+          "name" : "Mesh Renderer"
+        }
+      ],
+      "name" : "node_damagedHelmet_-6514"
+    },
+    {
+      "components" : 
+      [
+        {
+          "id" : "native/7",
+          "members" : 
+          [
+            {
+              "name" : "color",
+              "type" : "vec4",
+              "value" : 
+              [
+                0.72123897075653076,
+                0.0,
+                0.019148074090480804,
+                0.44499999284744263
+              ]
+            }
+          ],
+          "name" : "Point Light"
+        },
+        {
+          "id" : "native/2",
+          "members" : 
+          [
+            {
+              "name" : "value",
+              "type" : "mat4",
+              "value" : 
+              [
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0,
+                2.0861625671386719e-07,
+                0.0,
+                0.0,
+                -2.0861625671386719e-07,
+                1.0,
+                0.0,
+                1.2299340963363647,
+                -0.72854459285736084,
+                -0.082381755113601685,
+                1.0
+              ]
+            },
+            {
+              "name" : "dirty",
+              "type" : "bool",
+              "value" : false
+            }
+          ],
+          "name" : "Transform"
+        },
+        {
+          "id" : "native/5",
+          "members" : 
+          [
+            {
+              "name" : "translation",
+              "type" : "vec3",
+              "value" : 
+              [
+                1.2299340963363647,
+                -0.72854459285736084,
+                -0.082381755113601685
+              ]
+            },
+            {
+              "name" : "rotation",
+              "type" : "quaternion",
+              "value" : 
+              [
+                1.0430812835693359e-07,
+                0.0,
+                0.0,
+                1.0
+              ]
+            },
+            {
+              "name" : "scale",
+              "type" : "vec3",
+              "value" : 
+              [
+                1.0,
+                1.0,
+                1.0
+              ]
+            }
+          ],
+          "name" : "TRS"
+        }
+      ],
+      "name" : "light 1",
+      "parent" : 0
+    },
+    {
+      "components" : 
+      [
+        {
+          "id" : "native/7",
+          "members" : 
+          [
+            {
+              "name" : "color",
+              "type" : "vec4",
+              "value" : 
+              [
+                1.0,
+                1.0,
+                1.0,
+                0.99000000953674316
+              ]
+            }
+          ],
+          "name" : "Point Light"
+        },
+        {
+          "id" : "native/2",
+          "members" : 
+          [
+            {
+              "name" : "value",
+              "type" : "mat4",
+              "value" : 
+              [
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0,
+                0.0,
+                -0.17901244759559631,
+                0.94467318058013916,
+                0.0,
+                1.0
+              ]
+            },
+            {
+              "name" : "dirty",
+              "type" : "bool",
+              "value" : false
+            }
+          ],
+          "name" : "Transform"
+        },
+        {
+          "id" : "native/5",
+          "members" : 
+          [
+            {
+              "name" : "translation",
+              "type" : "vec3",
+              "value" : 
+              [
+                -0.17901244759559631,
+                0.94467318058013916,
+                0.0
+              ]
+            },
+            {
+              "name" : "rotation",
+              "type" : "quaternion",
+              "value" : 
+              [
+                0.0,
+                0.0,
+                0.0,
+                1.0
+              ]
+            },
+            {
+              "name" : "scale",
+              "type" : "vec3",
+              "value" : 
+              [
+                1.0,
+                1.0,
+                1.0
+              ]
+            }
+          ],
+          "name" : "TRS"
+        }
+      ],
+      "name" : "light 2",
+      "parent" : 0
+    },
+    {
+      "components" : 
+      [
+        {
+          "id" : "native/2",
+          "members" : 
+          [
+            {
+              "name" : "value",
+              "type" : "mat4",
+              "value" : 
+              [
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0
+              ]
+            },
+            {
+              "name" : "dirty",
+              "type" : "bool",
+              "value" : true
+            }
+          ],
+          "name" : "Transform"
+        },
+        {
+          "id" : "native/5",
+          "members" : 
+          [
+            {
+              "name" : "translation",
+              "type" : "vec3",
+              "value" : 
+              [
+                0.0,
+                0.0,
+                0.0
+              ]
+            },
+            {
+              "name" : "rotation",
+              "type" : "quaternion",
+              "value" : 
+              [
+                0.0,
+                0.0,
+                0.0,
+                1.0
+              ]
+            },
+            {
+              "name" : "scale",
+              "type" : "vec3",
+              "value" : 
+              [
+                1.0,
+                1.0,
+                1.0
+              ]
+            }
+          ],
+          "name" : "TRS"
+        }
+      ],
+      "name" : "mesh",
+      "parent" : 0
+    }
+  ],
+  "id" : "/0",
+  "linked" : true,
+  "linkedMeshes" : 
+  [
+    {
+      "id" : "/1",
+      "name" : "mesh_helmet_LP_13930damagedHelmet"
+    }
+  ],
+  "rootEntity" : 0,
+  "source" : "helmet.gltf"
+}
